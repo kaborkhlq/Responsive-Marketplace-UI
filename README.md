@@ -1,2 +1,1 @@
-# Responsive-Marketplace-UI
-Responsive UI from Design
+# Responsive-Landing-Page
